@@ -6,5 +6,7 @@
 
 ```
 npm install 
+
+ng serve
 ```
 
